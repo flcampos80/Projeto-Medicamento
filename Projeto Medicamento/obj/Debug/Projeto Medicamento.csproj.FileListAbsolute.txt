@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe.config
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.exe
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\bin\Debug\Projeto Medicamento.pdb
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.exe
+C:\Users\Lenovo\source\repos\Projeto Medicamento\Projeto Medicamento\obj\Debug\Projeto Medicamento.pdb
